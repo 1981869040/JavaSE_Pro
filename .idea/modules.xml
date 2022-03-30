@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_hello-app/1_hello-app.iml" filepath="$PROJECT_DIR$/1_hello-app/1_hello-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_basic-app/2_basic-app.iml" filepath="$PROJECT_DIR$/2_basic-app/2_basic-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_flow-control-app/3_flow-control-app.iml" filepath="$PROJECT_DIR$/3_flow-control-app/3_flow-control-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_shuzu-app/4_shuzu-app.iml" filepath="$PROJECT_DIR$/4_shuzu-app/4_shuzu-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_method-app/5_method-app.iml" filepath="$PROJECT_DIR$/5_method-app/5_method-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_practise-app/6_practise-app.iml" filepath="$PROJECT_DIR$/6_practise-app/6_practise-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_oop-app/7_oop-app.iml" filepath="$PROJECT_DIR$/7_oop-app/7_oop-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_api-app/8_api-app.iml" filepath="$PROJECT_DIR$/8_api-app/8_api-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_ATM-app/9_ATM-app.iml" filepath="$PROJECT_DIR$/9_ATM-app/9_ATM-app.iml" />
+    </modules>
+  </component>
+</project>
